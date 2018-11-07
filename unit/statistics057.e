@@ -1,0 +1,1 @@
+max(string(0));

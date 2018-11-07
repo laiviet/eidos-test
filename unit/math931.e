@@ -1,0 +1,1 @@
+tan(logical(0));

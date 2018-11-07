@@ -1,0 +1,1 @@
+mean(integer(0));

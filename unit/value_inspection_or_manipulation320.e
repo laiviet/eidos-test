@@ -1,0 +1,1 @@
+ifelse(T, 'foo', 'bar');

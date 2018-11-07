@@ -1,0 +1,1 @@
+exp(string(0));

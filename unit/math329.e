@@ -1,0 +1,1 @@
+isNAN(logical(0));

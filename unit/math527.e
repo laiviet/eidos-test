@@ -1,0 +1,1 @@
+setIntersection(NULL, NULL);

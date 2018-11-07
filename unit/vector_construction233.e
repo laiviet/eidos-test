@@ -1,0 +1,1 @@
+seqAlong(logical(0));

@@ -1,0 +1,1 @@
+length(logical(0));

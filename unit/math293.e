@@ -1,0 +1,1 @@
+isFinite(logical(0));

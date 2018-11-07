@@ -1,0 +1,1 @@
+product(float(0));

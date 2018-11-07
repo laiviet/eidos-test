@@ -1,0 +1,1 @@
+object(integer(0));

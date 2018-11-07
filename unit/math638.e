@@ -1,0 +1,1 @@
+setDifference(NULL, NULL);

@@ -1,0 +1,1 @@
+type(version(T)) == 'float';

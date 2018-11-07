@@ -1,0 +1,1 @@
+pmin('foo', 'bar');

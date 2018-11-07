@@ -1,0 +1,1 @@
+tan(string(0));

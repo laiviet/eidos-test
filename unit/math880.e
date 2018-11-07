@@ -1,0 +1,1 @@
+sqrt(integer(0));

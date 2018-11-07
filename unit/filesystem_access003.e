@@ -1,0 +1,1 @@
+sum(filesAtPath('/') == 'bin');

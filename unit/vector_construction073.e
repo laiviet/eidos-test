@@ -1,0 +1,1 @@
+logical(integer(0));

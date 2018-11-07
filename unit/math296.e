@@ -1,0 +1,1 @@
+isFinite(string(0));

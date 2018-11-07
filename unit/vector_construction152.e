@@ -1,0 +1,1 @@
+repEach(object(), 5);

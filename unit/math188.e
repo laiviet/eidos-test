@@ -1,0 +1,1 @@
+exp(logical(0));

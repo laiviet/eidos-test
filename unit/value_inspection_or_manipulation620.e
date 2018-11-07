@@ -1,0 +1,1 @@
+unique(logical(0));

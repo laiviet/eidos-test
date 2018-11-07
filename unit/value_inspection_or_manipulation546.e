@@ -1,0 +1,1 @@
+str(logical(0));

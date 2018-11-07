@@ -1,0 +1,1 @@
+setIntersection('foo', 'foo');

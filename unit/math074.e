@@ -1,0 +1,1 @@
+atan(string(0));

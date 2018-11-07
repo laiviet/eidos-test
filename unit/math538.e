@@ -1,0 +1,1 @@
+setIntersection(object(), NULL);
