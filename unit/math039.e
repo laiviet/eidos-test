@@ -1,1 +1,0 @@
-acos(float(0));

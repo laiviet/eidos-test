@@ -1,1 +1,0 @@
-sqrt(logical(0));

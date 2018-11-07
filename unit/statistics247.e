@@ -1,1 +1,0 @@
-sd(logical(0));

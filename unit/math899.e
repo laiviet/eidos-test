@@ -1,1 +1,0 @@
-sum(logical(0));

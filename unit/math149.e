@@ -1,1 +1,0 @@
-cumProduct(integer(0));

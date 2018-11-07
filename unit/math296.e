@@ -1,1 +1,0 @@
-isFinite(string(0));

@@ -1,1 +1,0 @@
-ifelse(F, 'foo', 'bar');

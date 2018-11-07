@@ -1,1 +1,0 @@
-mean(logical(0));

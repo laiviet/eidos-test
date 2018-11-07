@@ -1,1 +1,0 @@
-identical(T & T, T);

@@ -1,1 +1,0 @@
-isFinite(logical(0));

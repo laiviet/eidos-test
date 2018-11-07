@@ -1,1 +1,0 @@
-cumSum(float(0));

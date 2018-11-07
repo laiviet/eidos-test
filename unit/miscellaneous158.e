@@ -1,1 +1,0 @@
-c = clock(); isFloat(c);

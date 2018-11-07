@@ -1,1 +1,0 @@
-str(integer(0));

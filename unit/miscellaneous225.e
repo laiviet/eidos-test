@@ -1,1 +1,0 @@
-functionSignature(string(0));

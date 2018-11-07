@@ -1,1 +1,0 @@
-setUnion(NULL, NULL);

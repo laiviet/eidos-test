@@ -1,1 +1,0 @@
-asLogical(c('foo','bar',''));

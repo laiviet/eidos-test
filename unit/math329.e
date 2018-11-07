@@ -1,1 +1,0 @@
-isNAN(logical(0));

@@ -1,1 +1,0 @@
-all(logical(0));

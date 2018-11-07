@@ -1,1 +1,0 @@
-cumSum(logical(0));

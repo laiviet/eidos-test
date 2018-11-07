@@ -1,1 +1,0 @@
-sumExact(float(0));

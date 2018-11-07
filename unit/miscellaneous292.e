@@ -1,1 +1,0 @@
-system('printf foo');

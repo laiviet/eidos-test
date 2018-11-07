@@ -1,1 +1,0 @@
-isLogical(3);

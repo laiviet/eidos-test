@@ -1,1 +1,0 @@
-mean(float(0));

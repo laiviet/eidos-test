@@ -1,1 +1,0 @@
-logical(integer(0));

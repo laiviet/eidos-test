@@ -1,1 +1,0 @@
-log(integer(0));

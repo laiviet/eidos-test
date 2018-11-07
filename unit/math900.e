@@ -1,1 +1,0 @@
-sum(integer(0));

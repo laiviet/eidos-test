@@ -1,1 +1,0 @@
-sin(integer(0));

@@ -1,1 +1,0 @@
-strsplit(c('foo', 'bar'));

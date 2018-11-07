@@ -1,1 +1,0 @@
-product(logical(0));

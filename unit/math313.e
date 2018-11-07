@@ -1,1 +1,0 @@
-isInfinite(float(0));

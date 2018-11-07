@@ -1,1 +1,0 @@
-ceil(integer(0));

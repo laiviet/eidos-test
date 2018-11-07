@@ -1,1 +1,0 @@
-x = NULL; x[,] = NULL;

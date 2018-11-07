@@ -1,1 +1,0 @@
-whichMin(integer(0));

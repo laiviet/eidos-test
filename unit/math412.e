@@ -1,1 +1,0 @@
-round(string(0));

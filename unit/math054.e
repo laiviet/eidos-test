@@ -1,1 +1,0 @@
-asin(logical(0));

@@ -1,1 +1,0 @@
-heatColors(8);

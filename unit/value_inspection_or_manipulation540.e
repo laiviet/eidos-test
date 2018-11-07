@@ -1,1 +1,0 @@
-sortBy(object(), 'foo');

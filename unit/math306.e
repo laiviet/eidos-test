@@ -1,1 +1,0 @@
-isInfinite(1);

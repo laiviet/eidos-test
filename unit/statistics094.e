@@ -1,1 +1,0 @@
-min(string(0));

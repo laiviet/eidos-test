@@ -1,1 +1,0 @@
-asFloat('foo');

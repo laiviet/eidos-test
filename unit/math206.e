@@ -1,1 +1,0 @@
-floor(string(0));

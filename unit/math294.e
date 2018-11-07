@@ -1,1 +1,0 @@
-isFinite(integer(0));
