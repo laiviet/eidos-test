@@ -1,0 +1,1 @@
+identical(NULL, NULL);

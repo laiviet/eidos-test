@@ -1,0 +1,1 @@
+isNAN(float(0));

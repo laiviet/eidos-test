@@ -1,0 +1,1 @@
+asin(string(0));

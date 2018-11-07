@@ -1,0 +1,1 @@
+doCall('sin', 'bar');

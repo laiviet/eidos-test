@@ -1,0 +1,1 @@
+cumProduct(string(0));

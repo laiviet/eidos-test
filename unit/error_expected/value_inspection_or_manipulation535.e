@@ -1,0 +1,1 @@
+sortBy(NULL, 'foo');

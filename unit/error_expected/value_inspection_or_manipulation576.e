@@ -1,0 +1,1 @@
+strsplit(string(0), '$$');

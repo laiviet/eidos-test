@@ -1,0 +1,1 @@
+pmax('foo', 'bar');

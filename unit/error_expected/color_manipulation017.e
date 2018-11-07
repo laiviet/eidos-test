@@ -1,0 +1,1 @@
+terrainColors(-1);

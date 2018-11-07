@@ -1,0 +1,1 @@
+asLogical(c('foo','bar',''));

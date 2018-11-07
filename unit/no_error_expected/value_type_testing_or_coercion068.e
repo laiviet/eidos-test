@@ -1,0 +1,1 @@
+isLogical(NULL);

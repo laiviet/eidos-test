@@ -1,0 +1,1 @@
+log(logical(0));

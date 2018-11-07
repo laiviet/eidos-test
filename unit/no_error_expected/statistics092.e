@@ -1,0 +1,1 @@
+min(integer(0));

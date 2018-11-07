@@ -1,0 +1,1 @@
+heatColors(3);

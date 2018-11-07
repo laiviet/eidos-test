@@ -1,0 +1,1 @@
+identical(matrix(F), F);

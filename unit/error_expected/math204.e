@@ -1,0 +1,1 @@
+floor(integer(0));

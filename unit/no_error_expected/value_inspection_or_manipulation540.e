@@ -1,0 +1,1 @@
+sortBy(object(), 'foo');

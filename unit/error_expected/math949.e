@@ -1,0 +1,1 @@
+trunc(string(0));

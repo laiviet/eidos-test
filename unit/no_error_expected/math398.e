@@ -1,0 +1,1 @@
+product(matrix(5));

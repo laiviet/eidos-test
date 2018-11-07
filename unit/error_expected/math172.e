@@ -1,0 +1,1 @@
+cumSum(string(0));

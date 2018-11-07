@@ -1,0 +1,1 @@
+isInfinite(float(0));

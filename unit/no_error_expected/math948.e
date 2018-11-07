@@ -1,0 +1,1 @@
+trunc(float(0));

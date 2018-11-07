@@ -1,0 +1,1 @@
+setSymmetricDifference('foo', 'foo');
