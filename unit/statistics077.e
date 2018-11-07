@@ -1,1 +1,0 @@
-mean(string(0));

@@ -1,1 +1,0 @@
-whichMax(integer(0));

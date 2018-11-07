@@ -1,1 +1,0 @@
-asin(float(0));

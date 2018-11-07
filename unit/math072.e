@@ -1,1 +1,0 @@
-atan(integer(0));

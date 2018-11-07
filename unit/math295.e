@@ -1,1 +1,0 @@
-isFinite(float(0));

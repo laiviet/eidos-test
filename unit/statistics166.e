@@ -1,1 +1,0 @@
-pmin(NULL, NULL);

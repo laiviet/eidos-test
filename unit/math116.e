@@ -1,1 +1,0 @@
-ceil(string(0));

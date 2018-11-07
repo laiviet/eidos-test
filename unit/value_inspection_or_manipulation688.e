@@ -1,1 +1,0 @@
-whichMin(float(0));

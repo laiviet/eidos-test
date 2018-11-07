@@ -1,1 +1,0 @@
-setSymmetricDifference(object(), NULL);

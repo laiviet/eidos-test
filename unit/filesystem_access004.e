@@ -1,1 +1,0 @@
-sum(filesAtPath('/', T) == '/bin');

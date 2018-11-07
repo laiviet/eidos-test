@@ -1,1 +1,0 @@
-abs(logical(0));

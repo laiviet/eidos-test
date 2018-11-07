@@ -1,1 +1,0 @@
-isString(3);

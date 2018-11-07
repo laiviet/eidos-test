@@ -1,1 +1,0 @@
-exp(integer(0));

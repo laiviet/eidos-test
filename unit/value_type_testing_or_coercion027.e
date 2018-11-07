@@ -1,1 +1,0 @@
-asLogical(0);

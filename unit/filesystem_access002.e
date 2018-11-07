@@ -1,1 +1,0 @@
-type(filesAtPath('/tmp/')) == 'string';

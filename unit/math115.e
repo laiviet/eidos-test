@@ -1,1 +1,0 @@
-ceil(float(0));

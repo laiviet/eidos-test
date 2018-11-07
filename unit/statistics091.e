@@ -1,1 +1,0 @@
-min(logical(0));

@@ -1,1 +1,0 @@
-deleteFile('/tmp/EidosTest.txt');

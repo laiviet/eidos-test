@@ -1,1 +1,0 @@
-isLogical(T);

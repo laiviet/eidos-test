@@ -1,1 +1,0 @@
-whichMin(string(0));

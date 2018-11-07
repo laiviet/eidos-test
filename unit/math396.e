@@ -1,1 +1,0 @@
-product(string(0));

@@ -1,1 +1,0 @@
-floor(integer(0));

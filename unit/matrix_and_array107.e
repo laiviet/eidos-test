@@ -1,1 +1,0 @@
-ncol(c('foo', 'bar'));

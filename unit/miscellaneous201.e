@@ -1,1 +1,0 @@
-executeLambda(NULL, T);

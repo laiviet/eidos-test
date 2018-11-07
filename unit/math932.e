@@ -1,1 +1,0 @@
-tan(integer(0));

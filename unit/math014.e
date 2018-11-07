@@ -1,1 +1,0 @@
-abs(string(0));

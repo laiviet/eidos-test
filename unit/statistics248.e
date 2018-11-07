@@ -1,1 +1,0 @@
-sd(integer(0));

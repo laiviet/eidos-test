@@ -1,1 +1,0 @@
-sin(string(0));

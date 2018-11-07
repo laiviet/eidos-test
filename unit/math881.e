@@ -1,1 +1,0 @@
-sqrt(float(0));

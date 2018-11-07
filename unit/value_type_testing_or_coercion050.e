@@ -1,1 +1,0 @@
-elementType(c(object(), object()));

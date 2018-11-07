@@ -1,1 +1,0 @@
-product(integer(0));

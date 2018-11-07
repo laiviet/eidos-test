@@ -1,1 +1,0 @@
-cos(integer(0));

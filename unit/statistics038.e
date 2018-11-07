@@ -1,1 +1,0 @@
-cov(NULL, NULL);

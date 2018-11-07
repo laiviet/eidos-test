@@ -1,1 +1,0 @@
-trunc(integer(0));

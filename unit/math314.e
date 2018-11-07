@@ -1,1 +1,0 @@
-isInfinite(string(0));

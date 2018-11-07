@@ -1,1 +1,0 @@
-atan(logical(0));

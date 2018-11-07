@@ -1,1 +1,0 @@
-identical(matrix(2) + 1:3, 3:5);

@@ -1,1 +1,0 @@
-type(version(F)) == 'float';

@@ -1,1 +1,0 @@
-setSymmetricDifference(NULL, NULL);

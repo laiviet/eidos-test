@@ -1,1 +1,0 @@
-setUnion('bar', 'foo');

@@ -1,1 +1,0 @@
-pmax(NAN, INF);
