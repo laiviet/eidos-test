@@ -1,0 +1,1 @@
+type(filesAtPath('/tmp/')) == 'string';

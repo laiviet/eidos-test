@@ -1,0 +1,1 @@
+floor(float(0));

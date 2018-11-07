@@ -1,0 +1,1 @@
+ceil(string(0));

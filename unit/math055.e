@@ -1,0 +1,1 @@
+asin(integer(0));

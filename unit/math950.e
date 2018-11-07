@@ -1,0 +1,1 @@
+trunc(NAN);

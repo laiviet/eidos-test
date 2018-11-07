@@ -1,0 +1,1 @@
+sd(logical(0));

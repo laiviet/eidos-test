@@ -1,0 +1,1 @@
+isFinite(float(0));

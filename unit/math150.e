@@ -1,0 +1,1 @@
+cumProduct(float(0));

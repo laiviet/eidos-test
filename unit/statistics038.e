@@ -1,0 +1,1 @@
+cov(NULL, NULL);

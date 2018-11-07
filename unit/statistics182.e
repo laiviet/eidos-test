@@ -1,0 +1,1 @@
+pmin(NAN, INF);

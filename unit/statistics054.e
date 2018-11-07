@@ -1,0 +1,1 @@
+max(logical(0));

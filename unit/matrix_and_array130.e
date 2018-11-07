@@ -1,0 +1,1 @@
+nrow(c('foo', 'bar'));

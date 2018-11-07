@@ -1,0 +1,1 @@
+strsplit(c('foo', 'bar'), '$$');

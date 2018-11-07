@@ -1,0 +1,1 @@
+isNULL(object());

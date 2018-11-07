@@ -1,0 +1,1 @@
+size(strsplit(time(), ':'));

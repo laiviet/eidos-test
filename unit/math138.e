@@ -1,0 +1,1 @@
+cumProduct(5);

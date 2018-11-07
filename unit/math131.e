@@ -1,0 +1,1 @@
+cos(logical(0));

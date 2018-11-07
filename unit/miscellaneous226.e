@@ -1,0 +1,1 @@
+functionSignature(NULL);

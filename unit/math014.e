@@ -1,0 +1,1 @@
+abs(string(0));

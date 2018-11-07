@@ -1,0 +1,1 @@
+any(logical(0));

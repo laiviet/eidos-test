@@ -1,0 +1,1 @@
+sum(string(0));

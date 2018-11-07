@@ -1,0 +1,1 @@
+ceil(logical(0));

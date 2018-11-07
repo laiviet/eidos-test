@@ -1,0 +1,1 @@
+whichMax('foo');

@@ -1,0 +1,1 @@
+nchar(c('', 'abcde', '', 'wumpus'));

@@ -1,0 +1,1 @@
+isNAN(string(0));

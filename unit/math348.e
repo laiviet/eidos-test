@@ -1,0 +1,1 @@
+log(string(0));
